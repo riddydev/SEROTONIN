@@ -1,0 +1,3 @@
+python-telegram-bot>=22.5
+httpx>=0.27
+rapidfuzz>=3.0
